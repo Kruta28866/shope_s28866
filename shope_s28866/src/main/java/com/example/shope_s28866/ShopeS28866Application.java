@@ -8,6 +8,7 @@ public class ShopeS28866Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ShopeS28866Application.class, args);
+	//przykładowy commit
 	}
 
 }
